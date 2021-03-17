@@ -1,0 +1,22 @@
+body {
+    background-color:rgba(153, 182, 190, 0.24);
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    color: #08975b;
+    text-align: center;
+  }
+
+.NavLink {
+      text-align: center;
+  }
+  
+.social {
+      text-align: center;
+  }
